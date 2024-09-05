@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'I’m a developer,Tech & Auto Enthusiast.'
-    subtitle: ''
+    subtitle: "Greetings!!\U0001F44B I'm Sidharth, a results-driven Software Development Engineer with a keen interest in cutting-edge technologies and a deep-rooted passion for Modern C++. Currently immersed in the dynamic world of the automotive sector, I thrive on crafting solutions that drive innovation and enhance the driving experience."
     styles:
       self:
         height: auto
